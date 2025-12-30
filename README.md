@@ -9,9 +9,9 @@
 ## :mailbox: Reach me out!
 
 [![Mail Badge](https://img.shields.io/badge/-Yuvraj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yvc3094@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Yuvraj_Chaudhari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-yuvrajchaudhari-/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Yuvraj_Chaudhari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-chaudhari-/) 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40Yuvraj)](https://twitter.com/yuvraj_4903)
-[![Instagram Badge](https://img.shields.io/badge/-@Yuvraj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/yuvraj._.49) 
+[![Instagram Badge](https://img.shields.io/badge/-@Yuvraj-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/yuvraj._.xo) 
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/Yuvraj_003.svg)](https://codeforces.com/profile/Yuvraj_003)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/yvc3094/)
 
@@ -44,7 +44,7 @@
 
 
 ## Resume
-:paperclip: [Resume/CV](https://drive.google.com/file/d/1RnyVNgTztHj9KuXlodfCby0vi7PrV9ez/view?usp=sharing)
+:paperclip: [Resume/CV](https://drive.google.com/file/d/1yJ1KG1nbzadCP5D5E77Dtkf5uoJj7rC4/view?usp=sharing)
 
 <!-- ## Top Languages:
 
