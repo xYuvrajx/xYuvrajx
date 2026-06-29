@@ -37,7 +37,7 @@
 
 
 ## Resume
-:paperclip: [Resume/CV](https://drive.google.com/file/d/1nRJpJM9WObagIH6sGXjWP7LS7g7Wx-mi/view)
+:paperclip: <a href="https://drive.google.com/file/d/1nRJpJM9WObagIH6sGXjWP7LS7g7Wx-mi/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resume/CV</a>
 
 <!-- ## Top Languages:
 
